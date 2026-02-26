@@ -1,0 +1,43 @@
+{
+  "jobs": [],
+  "stages": [
+    "Lead",
+    "Quoted",
+    "Approved",
+    "Scheduled",
+    "In Progress",
+    "Quality Check",
+    "Payment Pending",
+    "Completed"
+  ],
+  "serviceTypes": [
+    "Fences",
+    "Concrete",
+    "Patios",
+    "Concrete Paint",
+    "Other"
+  ],
+  "team": [
+    {
+      "id": "prince_owner",
+      "name": "Prince Stokes",
+      "role": "Owner / Sales",
+      "phone": "TBD",
+      "email": "prince.stokes@icloud.com",
+      "accessLevel": "admin",
+      "notes": "Handles sales and client relations"
+    },
+    {
+      "id": "michael_owner",
+      "name": "Michael Michener",
+      "role": "Owner / Operations",
+      "phone": "TBD",
+      "email": "fortusstark@gmail.com",
+      "accessLevel": "admin",
+      "notes": "Manages operations and subcontractors"
+    }
+  ],
+  "contractors": [],
+  "lastUpdated": "",
+  "nextJobNumber": 1
+}
